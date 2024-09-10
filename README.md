@@ -1,5 +1,7 @@
 # EV-Analysis-Project
 
+## Tableau Dashborad Link: https://public.tableau.com/app/profile/shubham.mali3353/viz/EVAnalysisDashboard_17191571123470/EVDashBoard
+
 ## Project Overview
 
 The EV (Electric Vehicle) Analysis Project focuses on analyzing data related to electric vehicles, identifying key trends, and uncovering valuable insights through an interactive dashboard built in Tableau. The project evaluates multiple variables such as vehicle sales, geographic trends, and key performance metrics to aid strategic decisions in the electric vehicle industry.
