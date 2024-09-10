@@ -24,7 +24,7 @@ The EV (Electric Vehicle) Analysis Project focuses on analyzing data related to 
 
 ## How to Use the Dashboard
 
-To interact with the Tableau dashboard:
+### To interact with the Tableau dashboard:
 
 - Download the Tableau file and open it using Tableau Desktop.
   
